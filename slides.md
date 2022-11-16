@@ -5,8 +5,8 @@ layout: intro2
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 themeConfig:
-  logoHeader: '/logo_lanbin_color.svg'
-  eventLogo: '/cipmec_logo.png'
+  logoHeader: '/bit_nucleotideo/logo_lanbin_color.svg'
+  eventLogo: '/bit_nucleotideo/cipmec_logo.png'
   eventUrl: 'https://beacons.ai/CIPMEC'
 
 css: unocss
@@ -25,9 +25,9 @@ css: unocss
 
 ---
 layout: presenter
-eventLogo: '/logo_lanbin_color.svg'
+eventLogo: '/bit_nucleotideo/logo_lanbin_color.svg'
 
-presenterImage: '/lpp.jpg'
+presenterImage: '/bit_nucleotideo/lpp.jpg'
 ---
 
 # Luiz Pedro Petroski
@@ -163,7 +163,7 @@ media: /bioinfo.png
 ---
 layout: text-image
 reverse: true
-media: '/reinos-0.jpg'
+media: '/bit_nucleotideo/reinos-0.jpg'
 ---
 
 # E a bio?
@@ -179,7 +179,7 @@ Biologia: Ciência que estuda a vida (organismos vivos)!
 ---
 layout: text-image
 reverse: true
-media: '/comp-humano.png'
+media: '/bit_nucleotideo/comp-humano.png'
 ---
 
 # Conseguimos fazer alguma relação com a computação?
@@ -187,7 +187,7 @@ media: '/comp-humano.png'
 ---
 layout: text-image
 reverse: true
-media: '/code.png'
+media: '/bit_nucleotideo/code.png'
 ---
 
 # Seria possível fazer um DEBUG de um ser vivo?
@@ -207,7 +207,7 @@ media: '/code.png'
 ---
 layout: text-image
 reverse: true
-media: '/code.png'
+media: '/bit_nucleotideo/code.png'
 ---
 
 # Seria possível fazer um DEBUG de um ser vivo?
@@ -227,7 +227,7 @@ media: '/code.png'
 ---
 layout: text-image
 reverse: true
-media: '/basenitrogenada.webp'
+media: '/bit_nucleotideo/basenitrogenada.webp'
 ---
 
 # Menor unidade de dados dos seres vivos
@@ -241,7 +241,7 @@ media: '/basenitrogenada.webp'
 
 ---
 layout: text-image
-media: '/magnet.gif'
+media: '/bit_nucleotideo/magnet.gif'
 ---
 # Estrutura
 
@@ -256,7 +256,7 @@ enzimas para a replicação do DNA.
 
 ---
 layout: image
-image: '/dna.jpg'
+image: '/bit_nucleotideo/dna.jpg'
 ---
 
 
@@ -277,7 +277,7 @@ Cada tipo	de	base	nitrogenada	pode	interagir	com	uma	outra	base complementar,	fo
 
 ---
 layout: text-image
-media: '/sequence.jpg'
+media: '/bit_nucleotideo/sequence.jpg'
 ---
 
 # Os nucleotídeos são o alfabeto do código da vida
@@ -291,7 +291,7 @@ media: '/sequence.jpg'
 
 ---
 layout: text-image
-media: '/cromossomo.webp'
+media: '/bit_nucleotideo/cromossomo.webp'
 ---
 
 # Como funciona o código no corpo humano?
@@ -303,7 +303,7 @@ media: '/cromossomo.webp'
   - É como um repositório de código descentralizado
 ---
 layout: text-image
-media: '/transcricao.png'
+media: '/bit_nucleotideo/transcricao.png'
 ---
 
 # O DNA é compilado?
@@ -319,7 +319,7 @@ media: '/transcricao.png'
 
 ---
 layout: text-image
-media: '/proteina.webp'
+media: '/bit_nucleotideo/proteina.webp'
 ---
 
 # A proteína é o executável de um sistema biológico
@@ -331,7 +331,7 @@ media: '/proteina.webp'
 
 ---
 layout: text-image
-media: '/debug.png'
+media: '/bit_nucleotideo/debug.png'
 ---
 
 # Conseguimos copiar esse código?
@@ -352,7 +352,7 @@ Qual a diferença?
 
 ---
 layout: default
-media: '/debug.png'
+media: '/bit_nucleotideo/debug.png'
 ---
 
 # Qual a diferença entre DNA e RNA?
@@ -376,7 +376,7 @@ media: '/debug.png'
 
 ---
 layout: text-image
-media: '/crispr.webp'
+media: '/bit_nucleotideo/crispr.webp'
 ---
 
 # É possível editar o DNA?
