@@ -53,7 +53,7 @@ presenterImage: '/bit_nucleotideo/lpp.jpg'
 ---
 layout: text-image
 
-media: /audience.jpg
+media: '/bit_nucleotideo/audience.jpg'
 caption: Image by upklyak on Freepik
 ---
 # Quem é você?
@@ -77,7 +77,7 @@ caption: Image by upklyak on Freepik
 ---
 layout: text-image
 
-media: /think.jpg
+media: '/bit_nucleotideo/think.jpg'
 caption: Image by storyset on Freepik
 ---
 # Vamos abstrair
@@ -105,7 +105,7 @@ caption: Image by storyset on Freepik
 ---
 layout: text-image
 
-media: /bioinfo.png
+media: '/bit_nucleotideo/bioinfo.png'
 ---
 
 
@@ -125,7 +125,7 @@ Aplicação de estatística e Ferramentas de computação em dados biológicos
 ---
 layout: default
 
-media: /bioinfo.png
+media: '/bit_nucleotideo/bioinfo.png'
 ---
 
 # O que é a informática?
@@ -183,26 +183,6 @@ media: '/bit_nucleotideo/comp-humano.png'
 ---
 
 # Conseguimos fazer alguma relação com a computação?
-
----
-layout: text-image
-reverse: true
-media: '/bit_nucleotideo/code.png'
----
-
-# Seria possível fazer um DEBUG de um ser vivo?
-<div v-click>
-<h4>Calma, calma!!</h4>
-</div>
-
-<div v-click>
-<h4>Quais são os dados que conseguimos coletar de um ser vivo?</h4>
-
-- DNA
-- RNA
-- Proteína
-
-</div>
 
 ---
 layout: text-image
